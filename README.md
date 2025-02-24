@@ -23,4 +23,7 @@ Imagem interpretada pela inteligência artificial (OUTPUT):
 
 [Uploading JSON Image.txt…]()
 
+Adicionando legendas nas imagens (my cat and dog):
+![image](https://github.com/user-attachments/assets/f64a10da-1fac-44b6-abb0-7d0a55d0e536)
+
 
